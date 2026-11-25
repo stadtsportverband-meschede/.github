@@ -2,7 +2,7 @@
 
 Der Stadtsportverband ist der Dachverband der Sportvereine in Meschede. Er vertritt über 50 Vereine mit mehr als 10.000 Mitgliedern gegenüber der Stadt, dem KreisSportBund Hochsauerlandkreis und dem Landessportbund NRW.
 
-In dieser Organisation liegen die digitalen Werkzeuge des Verbands. Der Quellcode ist offen, damit andere Stadt- und Gemeindesportverbände ihn übernehmen können.
+In dieser Organisation liegen die digitalen Werkzeuge des Verbands.
 
 ## Projekte
 
